@@ -1,5 +1,5 @@
-# Mobile Civi Take-Home Exercise
-Included below are instructions for completing Civi's take-home exercise.
+# Mobile Engineer: Civi Take-Home Exercise
+Included below are instructions for completing Civi's take-home for mobile engineers.
 
 ## Exercise Summary
 Consume JSON messages from an API, and display them to a user.
