@@ -1,4 +1,4 @@
-# Engineer: Civi Take-Home Exercise
+# Engineering: Civi Take-Home Exercise
 Included below are instructions for completing Civi's take-home engineering exercise.
 
 ## Exercise Summary
